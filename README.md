@@ -66,11 +66,9 @@ function loadEnv() {
 }
 
 ```
+### AURORA Testnet Network Contact Address
 
-
-=====================
-1.Main Contract
-=====================
+####  1.Main Contract
 
 ```json
 {
@@ -128,9 +126,7 @@ function loadEnv() {
   }
 }
 ```
-=====================
-2.blindBox NFT721contract
-=====================
+#### 2.blindBox NFT721contract
 ```json
 {
   "NFT721": {
@@ -138,9 +134,7 @@ function loadEnv() {
   }
 }
 ```
-=====================
-3.Equipment, cards, keys, passport, land NFT721 contract, air drop contract
-=====================
+####  3.Equipment, cards, keys, passport, land NFT721 contract, air drop contract
 ```json
 {
   "CardMerge721": "0xe744553218e7051dadEde0B20097e5843E874b5B",
@@ -148,9 +142,7 @@ function loadEnv() {
   "erc20TransferProxyTx": "0x726baa2689cbf1d51695286c359b2666562a14459c96b4c53007c940b2cd64f4"
 }
 ```
-=====================
-4.ERC-20 token
-=====================
+####  4.ERC-20 token
 ```json
 {
   "Token": {
