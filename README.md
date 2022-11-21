@@ -68,6 +68,12 @@ function loadEnv() {
 ```
 ### AURORA Testnet Network Contact Address
 
+RPC: https://testnet.aurora.dev
+Channel id: 1313161555
+Explorer Address: e.g. https://testnet.aurorascan.dev/address/0x32665EF0F715Da3e87e3Df00AB21CF59bBC43752
+Explorer tx: e.g. https://testnet.aurorascan.dev/tx/0x45dd1cb1354a6b3882018e78cf07febcab9e60d08769c68a380a7c89e2006fe3
+
+
 ####  1.Main Contract
 
 ```json
